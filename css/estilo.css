@@ -133,18 +133,18 @@ pre.original {
   color: #555;         /* traducción más suave 
 }*/
 
-.s_m    { color: #1e90ff; }                      /* Maskulin Susbtantiv; azul */
-.s_f    { color: #e91e63; }                      /* Feminin Susbtantiv; rosa */
-.s_n    { color: #9c27b0; }                      /* Neutrum Susbtantiv; morado */
-.ver    { color: #2e7d32; }                      /* Verb; verde */
-.adj    { color: #ff9800; }                      /* Adjetiv; naranja */
-.adv    { color: #795548; }                      /* Adverb; marrón */
-.pre    { color: #009688; }                      /* Präposition; turquesa */
-.kon    { color: #607d8b; }                      /* Konjunktion; gris azulado */
-.par    { color: #000; font-style: italic; }     /* Partikel; negro */
-.pro    { color: #8bc34a; }                      /* Pronomen; verde claro */
-.art    { color: #444; font-style: italic; }     /* Artikel; gris */
-.dru    { color: #646200; font-style: italic; }     /* Ausdruck; gris */
+.s_m { color: #1e90ff; }                      /* Maskulin Susbtantiv; azul */
+.s_f { color: #e91e63; }                      /* Feminin Susbtantiv; rosa */
+.s_n { color: #9c27b0; }                      /* Neutrum Susbtantiv; morado */
+.ver { color: #2e7d32; }                      /* Verb; verde */
+.adj { color: #ff9800; }                      /* Adjetiv; naranja */
+.adv { color: #795548; }                      /* Adverb; marrón */
+.pre { color: #009688; }                      /* Präposition; turquesa */
+.kon { color: #607d8b; }                      /* Konjunktion; gris azulado */
+.par { color: #000; font-style: italic; }     /* Partikel; negro */
+.pro { color: #8bc34a; }                      /* Pronomen; verde claro */
+.art { color: #444; font-style: italic; }     /* Artikel; gris */
+.dru { color: #646200; font-style: italic; }  /* Ausdruck; gris */
 
 .gramatica p {
     margin: 0.5em 0;
